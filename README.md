@@ -9,7 +9,7 @@
   - Typesetting (TeX, SATySFi, Typst)
   - Competitive programming and CTFs
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sankantsu)
+![GitHub stats](https://github-readme-stats-sankantsu.vercel.app/api?username=sankantsu)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sankantsu&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sankantsu&theme=default&exclude=RenderScript)
